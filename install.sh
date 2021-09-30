@@ -1,0 +1,1 @@
+alias pakket = "pacman"
